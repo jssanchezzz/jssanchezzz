@@ -1,6 +1,6 @@
 <!--
 CONFIG
-FULL_NAME: JUAN SEBASTIAN SANCHEZ SILVA
+FULL_NAME: Juan Sebastian Sanchez Silva
 GITHUB_USER: jssanchezzz
 -->
 
